@@ -1,6 +1,0 @@
-github push
-git is a version control system
-git is a free tool.
-add linetext. forth add context.
-hello
-next line .
